@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodgerdev
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning the MERN stack
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning statistics for Data Science
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me ndemorodgers77@gmail.com
 
